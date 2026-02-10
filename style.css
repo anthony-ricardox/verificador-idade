@@ -1,0 +1,61 @@
+*{  
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{   
+    background-color: rgb(20, 127, 250);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header h1{  
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+section{
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.486);
+}
+
+section div{    
+    padding: 10px;
+}
+p#sexo{ 
+    margin-top: 20px;
+}
+
+input[type='number']{   
+    width: 100px;
+    border-radius: 5px;
+    
+}
+
+input[type='button']{  
+    
+    width: 100px;
+    font-weight:800 ;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+div#btn{   
+   
+}
+
+div#res{    
+    text-align: center;
+}
+
+
+footer{ 
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
