@@ -16,7 +16,7 @@ header h1{
 }
 
 section{
-    width: 480px;
+    width: 400px;
     background-color: white;
     border-radius: 10px;
     margin: auto;
@@ -62,7 +62,7 @@ footer{
 
 @media screen and (min-width: 768px) {
     section{    
-        width: 800px;
+        width: 500px;
     }
     
 }
